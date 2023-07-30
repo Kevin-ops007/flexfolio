@@ -1,18 +1,18 @@
-import { Button, Text } from '@mantine/core';
+import { Button, Title } from '@mantine/core';
 
 export default function Home() {
     return (
 
         <>
-            <Text fz="xl">
+            <Title fz="xl">
                 Workout
-            </Text>
+            </Title >
             <Button radius="xl" size="xl">
                 Start Workout
             </Button>
-            <Text fz="lg">
+            <Title fz="lg">
                 Templates
-            </Text>
+            </Title >
             <Button variant="outline" radius="xl" size="xl">
                 Push
             </Button>

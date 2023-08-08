@@ -68,7 +68,7 @@ export function AuthenticationTitle(props: PaperProps) {
                 <Title className={classes.title}>
                     Welcome to{' '}
                     <Text component="span" className={classes.highlight} inherit>
-                        Qoaba,
+                        FlexFolio,
                     </Text>{' '}
                     {type} with
                 </Title>

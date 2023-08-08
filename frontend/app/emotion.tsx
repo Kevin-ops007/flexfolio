@@ -23,7 +23,7 @@ export default function RootStyleRegistry({ children }: { children: React.ReactN
                 theme={{
                     fontFamily: "Satoshi, sans-serif",
                     colors: {
-                        blue: ["#f3f0ff", "#e5dbff", "#d0bfff", "#b197fc", "#9775fa", "#845ef7", "#7950f2", "#7048e8", "#6741d9", "#5f3dc4"],
+                        blue: ["#e7f5ff", "#d0ebff", "#d0bfff", "#a5d8ff", "#74c0fc", "#4dabf7", "#339af0", "#228be6", "#1c7ed6", "#1c7ed6"],
                     }
                 }}
             >
